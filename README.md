@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Hi! I'm Ewald van Veen.
 ## Welcome on my GitHub profile!
 
-![Banner with a football, a guitar, 2 dices and a book displayed](https://raw.githubusercontent.com/ewaldvveen/ewaldvveen/main/banner.jpg)
+![Banner with a football, a guitar, 2 dices and a book displayed](https://raw.githubusercontent.com/ewaldvveen/ewaldvveen/main/social-banner.jpg)
 
 I am a creative web developer that focuses on front-end techniques such as HTML, CSS (SASS), JavaScript and Angular. Accessibility and a basic layout of a website are important topics for me.
 
